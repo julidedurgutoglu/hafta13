@@ -1,0 +1,5 @@
+commit 1eca9c4dcfa1eaeffa758d2f29869227a37be276 (HEAD -> main, origin/main, origin/HEAD)
+Author: julidedurgutoglu <julide_yeliz@hotmail.com>
+Date:   Sat Jun 14 02:19:13 2025 +0300
+
+    hafta13
